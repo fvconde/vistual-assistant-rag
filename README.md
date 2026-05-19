@@ -39,7 +39,7 @@ Pergunta → [Triagem] → [Busca ChromaDB] → [LLM] → [Resposta formatada]
 3. Execute as células em ordem (1 a 16)
 
 ### Observação sobre Fine-Tuning
-O enunciado aceita dados sintéticos e abordagem RAG como alternativa
-ao fine-tuning tradicional. RAG foi escolhido por ser a abordagem
+A abordagem RAG como alternativa ao fine-tuning tradicional. 
+RAG foi escolhido por ser a abordagem
 padrão do mercado para domínios especializados, não exigir GPU dedicada
 e permitir atualização do conhecimento sem retreinamento.
