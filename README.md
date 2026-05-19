@@ -1,4 +1,4 @@
-# Tech Challenge Fase 3 — Assistente de Saúde da Mulher
+# Assistente de Saúde da Mulher
 ## Arquitetura RAG + LangGraph
 
 ### Visão Geral
