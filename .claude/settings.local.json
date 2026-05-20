@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import json; nb=json.load\\(open\\('virtual-assistant.ipynb','r',encoding='utf-8'\\)\\); [print\\(f'{i}: {c.get\\(\\\\\"id\\\\\",\\\\\"NO_ID\\\\\"\\)} \\({c[\\\\\"cell_type\\\\\"]}\\) - {c[\\\\\"source\\\\\"][:60]!r}...'\\) for i,c in enumerate\\(nb['cells']\\)]\")",
+      "Bash(python -c ' *)"
+    ]
+  }
+}
